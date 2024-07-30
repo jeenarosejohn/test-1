@@ -16,11 +16,11 @@ const NAV = () => {
             sx={{ mr: 2 }}
           > 
           </IconButton>
-          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}><span className="highlighted-text">
-            PRODUCT DETAILS</span>
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+            PRODUCT DETAILS
           </Typography>
-          <Link to={'/add'}><Button color="inherit"><span className="highlighted-text">ADD</span></Button></Link>
-          <Link to={'/'}><Button color="inherit"><span className="highlighted-text">HOME</span></Button></Link>
+          <Link to={'/add'}><Button color="inherit">ADD</Button></Link>
+          <Link to={'/'}><Button color="inherit">VIEW</Button></Link>
 
         </Toolbar>
       </AppBar>

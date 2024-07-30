@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <h1>NUTURE PRODUCTS </h1>
+      <h1>PRODUCTS  MANAGEMENT</h1>
       <Navbar/><br/>
       <Routes>
     <Route path='/add' element={<Add/>}></Route>

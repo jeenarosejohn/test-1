@@ -34,9 +34,7 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
-.highlighted-text {
-  color: rgb(230, 255, 8); /* Change the color to your desired color */
-}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
